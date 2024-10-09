@@ -1,6 +1,6 @@
 # Flask-Init
 
-A Bash script to initialize a Flask project with customizable options, including virtual environment management, host and port settings, environment configuration, and additional page creation.
+A Bash script to initialize a Flask project with customizable options, including virtual environment management, host and port settings, environment configuration, and additional page creation. It is designed for macOS.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ The `flask-init` script automates the setup of a Flask web application project. 
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/nicojwn/flask-init.git
    ```
 
 2. **Navigate to the Repository Directory**:
@@ -51,19 +51,11 @@ The `flask-init` script automates the setup of a Flask web application project. 
    cd <repository_directory>
    ```
 
-3. **Make the Script Executable**:
-
-   ```bash
-   chmod +x flask-init
-   ```
+3. **Make the flask-init Script Executable**:
 
 4. **Add the Script to Your PATH** (optional):
 
    You can add the script to a directory that's in your `PATH` or modify your `PATH` to include the script's directory for easier access.
-
-   ```bash
-   export PATH=$PATH:/path/to/script_directory
-   ```
 
 ## Usage
 
