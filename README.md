@@ -1,4 +1,3 @@
-```markdown
 # Flask-Init
 
 A Bash script to initialize a Flask project with customizable options, including virtual environment management, host and port settings, environment configuration, and additional page creation.
@@ -248,4 +247,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
